@@ -6,7 +6,7 @@ function Grade() {
     let sci = document.getElementById("sci").value;
     let math = document.getElementById("math").value;
     let engl = document.getElementById("engl").value;
-    let showdata = document.getElementById("showdata ");
+    // let showdata = document.getElementById("showdata ");
     let grade = "";
 
     let totalgrade =
